@@ -50,6 +50,7 @@ Bodong programmed the tool in Knowledge Forum 4 and it's now implemented in KF6 
   - quite interesting: basically another way to organize knowledge (in addition to tags)
   - drag and drop: 1) links; 2) highlights; to an outline
 
+![](fig/diigo-outliner.png)
 
 ### [Highlights App](http://highlightsapp.net/) (Mac)
 
