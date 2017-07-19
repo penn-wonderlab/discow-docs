@@ -20,6 +20,37 @@ Questions:
 - magnets vs tags: magnets are emerging, high-level knowledge structures that are tied to student interests. Tags are describers of annotations, which can be about anything.
 - What does the Pull action really mean? NEED TO THINK/DISCUSS MORE.
 
+> Pull is the ability to draw out people and resources as needed to address the opportunities and challenges of an uncertain world. ...  Pull allows
+us to harness and unleash the forces of attraction, influence, and serendipity. ... Pull is about expanding our awareness of what is
+possible and evolving new dispositions, mastering
+new practices, and taking new actions to realize
+those possibilities. It’s about figuring out how to
+be systematic in how we combine work and life
+to pursue our passions, how to find others who
+share our passion but bring different experiences and perspectives to challenging performance
+needs, and how to create conditions where we’re
+more likely to happen upon interesting people,
+resources, and opportunities—even as we contribute
+the same chances to others.
+>
+> Pull works at three primary levels, each of which
+builds on the others. At the most basic level, pull
+helps us to find and access people and resources
+when we need them. At a second level, pull is the
+ability to attract people and resources to us that
+are relevant and valuable, even if we were not
+even aware before that they existed. Think here of
+serendipity rather than search. Finally, in a world of mounting pressure and unforeseen opportunities,
+we need to cultivate a third level of pull—the
+ability to pull from within ourselves the insight and
+performance required to more effectively achieve
+our potential. We can use pull to learn faster
+and translate that learning into rapidly improving
+performance, not just for ourselves, but for the
+people we connect with—a virtuous cycle that we
+can participate in.
+> ([Source](https://www2.deloitte.com/us/en/pages/center-for-the-edge/articles/power-of-pull.html))
+
 ### Annotate
 
 Basic annotation process supported by H.
@@ -59,7 +90,7 @@ Bodong programmed the tool in Knowledge Forum 4 and it's now implemented in KF6 
 - Databases: containing files; independent from each other
 - Duplicate vs. Replicate: duplicates are independent; replicates are linked with each other
 - Tags
-  - Group tags and ordinary tags: [video](https://www.youtube.com/watch?v=di3MlFLMOf4). DevonThink provides interesting ways to add tags, change tags, and make use of tags. The idea of filtering docs by tags and addign to a `smart group` is quite interesting and may apply to Discow very well.
+  - Group tags and ordinary tags: [video](https://www.youtube.com/watch?v=di3MlFLMOf4). DevonThink provides interesting ways to add tags, change tags, and make use of tags. The idea of filtering docs by tags and add to a `smart group` is quite interesting and may apply to Discow very well.
 - Labels
 - Inbox: collecting information into DevonThink (global for all databases); can also be specific to databases
 - Highlight notes
