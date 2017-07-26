@@ -34,6 +34,8 @@ The existing documentation up until this point is rather well developed, and any
 
 Once installed, there are a few issues with actually running the development build to watch out for. First of all, the development extension does not appear to function properly on sites served via HTTPS, displaying the basic GUI of the program but not communicating with the server at all. It appears to be an issue with Chrome itself blocking the scripts from running- a solution is currently in the works, but until then the application runs without complaint on sites served via plain HTTP.
 
+If you need an example HTTP page, try the [Apache software license](http://www.apache.org/licenses/LICENSE-2.0).
+
 Another issue to keep in mind is that, as the service is running through a local server, it cannot access the account data from the main hypothesis service, and new accounts do not register properly through the sign-up form in this mode. To get around this, new users can be added via the command line as follows, from the main h directory:
 ```
 ./bin/hypothesis --dev user add
