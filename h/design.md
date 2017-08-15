@@ -1,5 +1,5 @@
-Thoughts on Discow Design v0.1
-====================================
+Thoughts on Discow Design
+=========================
 
 On the H side of Discow, we are not only looking at how annotations can support student learning. We are fundamentally concerned with *how knowledge workers deal with information or knowledge*. This is a living document of the design of Discow on this front. Below, we capture key design ideas. At the bottom of this page, we are surveying available systems for (creative) knowledge work, as there is a long list of knowledge management software in this space.
 
@@ -78,6 +78,23 @@ After posing these questions earlier, I dwelled on the notion of Idea Magnets a 
 - Where should review and reflection take place? In H or KF? --> In KF, where Idea Magnets are rendered.
 - How to support search and filtering? --> need to tease out types of knowledge objects in the system -- KF notes, highlights, annotations, replies to annotations, magnets, tags, epistemic markers, etc. Those could be all used for filtering.
 - How knowledge gets moved across spaces while maintaining its original context? --> KF generates IMAs --> rendered in H; Web content --> captured by H --> attached to IMAs --> rendered in KF for reflection.
+
+
+### Design Decisions
+
+**One magnet per post? Or multiple?**
+
+One for now.
+
+**Dropdown menu?**
+
+Maybe a combination of a text input box and a dropdown menu?
+
+**How magnets are displayed in the sidebar?**
+
+See mockup v2.
+
+**Where to store magnets?**
 
 ## Related Projects
 
