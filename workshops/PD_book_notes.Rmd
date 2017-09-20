@@ -1,0 +1,142 @@
+---
+title: "PD_book_notes"
+author: "Fan Ouyang"
+date: "9/20/2017"
+output: pdf_document
+---
+
+### Routledge International Handbook of Participatory Design
+
+#### chapter 6 Methods --  principles and guidelines
+The challenge for the design process, in the context of Participatory Design, is therefore how to develop a highly complex piece of technology and at the same time be flexible for learning processes resulting in changes to both the interface and the functionality of the technology throughout the design process – and even beyond
+    - think about -- how and when users can have a say : the scope and effect of user participation
+
+##### Basics of Methods 
+
+###### what is *method*? (i.e. normative descriptions)
+1. how Participatory Design projects can be set up so that users are enabled to take an active part in
+the activities and decisions throughout which new information technology is designed and built
+2. a coherent set of organising principles and general guidelines for how to carry out a design process
+from start to finish – within a Participatory Design perspective
+
+###### what to *include* in the method description?
+1. application area: what type of development activities the method is intended for , in our case, a  web annotation tool
+2. perspective: e.g., design should be carried out close to the user so that the user can participate in
+design decisions
+3. general guidelines: how to conduct and carry out a Participatory Design process
+    - techniques: carrying out specific activities. e.g., investigating current practices of use of the web annotation tool
+    - tools: concrete instruments supporting the techniques. e.g., facilitating creative workshops where users collaborate with designers on envisioning future work systems
+    - organising principles: how to distribute and coordinate work tasks in the design process, how to organise the planned set of interrelated activities, and who to involve in the design
+
+##### Information Technology Design processes
+Information technology design is understood as a design process shaping both the technical artefact and its context of use
+
+1. product-oriented: *develop* an information technology system or tool, *perform* this system or tool, *analyze* current situations, and *design* for the future change
+2. process-oriented: *manage* the process, *evaluate* the current situations, and *plan* the future
+
+
+##### *Four* Participatory Design methods
+1. STEPS: Software Technology for Evolutionary Participatory Systems Development (*maybe fit for our project*)
+     - application area: software development for socially embedded systems with a special emphasis on co-development of usage and technology
+     - perspective: 
+          1. to facilitate the co-development of usage and software as a joint design and exploratory learning process; a software development cycle is established under the joint responsibility of users and designers
+          2. development process is designed as an iterative one, where evolutionary
+prototypes of the software are the central design artefact mediating a mutual learning process
+          3. adapting the process according to the evolving requirements; a paradigm change in software engineering from a ‘product-oriented paradigm’ to a ‘process-oriented paradigm
+          4. Designers and users together decide on the scope of the revision, and on the specific tools and techniques applied for the collaborative design resulting in additional intermediary products.
+          5. requirements need to be gradually established in anticipative, constructive and evaluative steps carried out by designers and users in interaction; design is not understood as the achievement of predefined goals, but is guided by insights emerging in the actual process
+          
+2. MUST (related to  business needs and conditions for information technology projects; *maybe not fit for our project*)
+- concept: a business-oriented and socially sensitive approach that takes into consideration the specific organisational context as well as first-hand knowledge of users’ work practices, and it allows all stakeholders – users, management and other staff – to participate in the process.
+- principles
+     1. coherent vision
+     2. genuine user participation
+     3. firsthand experience with users' practices
+     4. anchoring visions
+     
+3. CESD: Cooperative Experimental System Development 
+- basic concept: tool perspective, make systems act as good tools for users
+- perspectives
+      1. it actively pursues a strategy of utilising experimental approaches in the analysis of existing practices
+      2. it applies the cooperative and experimental techniques also in the parts of the project where the main concern is technical design and implementation, i.e. designers with Participatory Design competencies and technical skilled designers cooperate throughout a project
+      3. it pays explicit attention to the transformation of loosely specified design artefacts, such as mock-ups and prototypes, into properly engineered and documented computer systems.
+- activities: workshop-based cooperative experiments and interventions. 
+
+4. Use-oriented design (*may be fit for our project*)
+- basic concept: emphasising the use context as the overall context of the information technology
+design – including the evaluation of the quality of the system
+- this approach is that users may expand the space of design ideas because their imagination will be based on their experiences. The approach is explorative, aiming to postpone the decision about the design problem so that users and designers can collaborate (or negotiate) on the problem setting after they have got to know each other
+- guideline
+     1. guidelines for this approach include a range of techniques and tools for mutual learning, where the users learn enough about technical possibilities to develop a technical imagination
+     2. users should not be forced to apply a technical-oriented language when describing their work
+     3. The process is organised so that the users and designers discuss (and negotiate) the problem setting and the solution, both being aware that they have interests in the future solution.
+- iterative cycle of participatory design process
+     1. real life problem situation
+     2. understanding practice
+     3. identifying needs, wishes
+     4. describing requirements
+     5. concretizing, materializing
+     6. testing, evaluating
+     
+##### essential characteristics of PD methods
+- having a say
+
+having something to say as well as affecting the outcome of an activity with what you say – i.e. having an influence; speaking thier own language
+
+- mutual learning 
+mutual learning implies that designers learn about the use context from the users, but also
+that the users learn about the technical possibilities from the designers
+
+
+**in our project** designers understand how this tool will be used in classroom contexts; teachers know the possible functions of this tool from the designers
+
+- co-realisation
+1. there are different ways of visualising possible solutions, with *prototyping* as the most important technique; enable co-construction and learning through sharing concrete experiences of a new imagined artefact
+2. Knowledge domains for mutual learning (*useful p.133-135*)
+
+|                     |current practices            | practices with new technology  | technological options  |
+|---------------------|:---------------------------:|:------------------------------:|-----------------------:|
+| abstract knowledge  | relevant descriptions       | visions and design proposals   | overview of options    |
+| concrete experience | experience with practices   |experience using new technology | experience with options|
+
+3. stepwise
+understand the situation -> make a design suggestion -> analyze and evaluate -> understand the new situation -> make this a basis for a new design suggestion
+4. design after design 
+provide users with the tools to develop or refine their tools themselves
+
+
+#### chapter 7 Tools and techniques
+
+##### value: practice of participation (the tell-make-enact framework)
+1. Telling activities as drivers for participation
+
+**for our project** consider these steps: 
+
+a. in the first meeting, stress that teachers, designers, researchers lead in deciding how the activities play out over time (mutual leanring process); because teachers have the firsthand experiences with student learning, their input is very important for us; teachers are not expecting to use technical languages, they should use their own language
+b. before our workshop, hand over descriptions of prototype (what has been done, how to use this tool, what functions it has, what is going to be done in the future) to teachers, let teachers try out the prototype, stressing that the mutual interests in ongoing revisions of the tool (design after design); 
+c. when use the tool, teachers can learn more about the tool, have a technical imagination and concrete ideas about the functions of the tool, reflection on the use of the tool in authentic learning process, identify wishes and needs for future tool revisions
+d. in our workshop, let teachers to talk about their experiences with the tool, also let them talk an ideal tool they want; create some joint activities (e.g., role playing of teachers and students in learning in different situations/subjects) for teachers and designers to work on; finally talk about what can be done to move towards the ideal vision of the tool
+
+2. The making of things as a means of design participation
+- participatory prototyping: using mock-ups in the early stages of the established design process; users can actively participate in the design process by actually doing
+- probes as a means of exploring experience: Probes refers to a design-led approach that invites people to reflect on and express their experiences, feelings and attitudes in forms and formats that provide inspiration for designers 
+- generative tools for co-designing: are used in the front end of design to help non-designers to imagine and express their own ideas about how they want to live, work and play in the future (notebook, reflective journal, concept map, think-out-loud)
+
+3. Participation through enacting possible futures
+activities where one or more people imagine and act out possible futures by trying things out (by use of the body) in settings that either resemble or are where future activities are likely to take place.
+
+   
+#####  relationships between telling, making and enacting
+- What are the best entry points into the iterative processes of participatory designing?
+- How do you decide in what order to conduct the activities? Is it better to have participants do the making activities before enacting? Or vice versa?
+- Should the participants or the researchers lead in deciding how the activities play out over time?
+- Do the relationships between making, telling and enacting change at different phases of the design process? If so, how?
+- Do the artefacts of the Participatory Design process change across the different stages of the
+design process? If so, how?
+
+
+##### further exploration, application and refinement
+- Analysis can focus on the artefact, the story, the enactment and/or the interplay between artefact, story and enactment
+
+
+
