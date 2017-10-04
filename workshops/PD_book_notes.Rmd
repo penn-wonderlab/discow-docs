@@ -20,11 +20,12 @@ Participatory Design can be defined as a process of investigating, understanding
 ##### core
 1. Design is, fundamentally, about designing futures for actual people. Designing technologies that people rely on in their work shapes, in essential ways, how it is possible for people to do their work and how they experience their working lives.
 2. Participation is the core of Participatory Design. genuine’ participation in design (Bødker et al. 2004): we refer to the fundamental transcendence of the users’ role from being merely informants to being legitimate and acknowledged participants in the design process.
-  2.1 as themselves (respecting their individual and group’s/community’s genuine interests) 
   
-  2.2 with themselves (being concentrated present in order to sense how they feel about an issue, being open towards reflections on their own opinions) 
+     2.1 as themselves (respecting their individual and group’s/community’s genuine interests) 
   
-  2.3 for the task and the project (contributing to the achievement of the shared and agreed-upon goals of the design task and design project at hand
+     2.2 with themselves (being concentrated present in order to sense how they feel about an issue, being open towards reflections on their own opinions) 
+  
+     2.3 for the task and the project (contributing to the achievement of the shared and agreed-upon goals of the design task and design project at hand
 
 #### chapter 6 Methods --  principles and guidelines
 The challenge for the design process, in the context of Participatory Design, is therefore how to develop a highly complex piece of technology and at the same time be flexible for learning processes resulting in changes to both the interface and the functionality of the technology throughout the design process – and even beyond
