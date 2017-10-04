@@ -22,10 +22,28 @@ Participatory Design can be defined as a process of investigating, understanding
 2. Participation is the core of Participatory Design. genuine’ participation in design (Bødker et al. 2004): we refer to the fundamental transcendence of the users’ role from being merely informants to being legitimate and acknowledged participants in the design process.
   
      2.1 as themselves (respecting their individual and group’s/community’s genuine interests) 
-  
      2.2 with themselves (being concentrated present in order to sense how they feel about an issue, being open towards reflections on their own opinions) 
-  
      2.3 for the task and the project (contributing to the achievement of the shared and agreed-upon goals of the design task and design project at hand
+     
+3. mutual learning process typically includes ideas and visions for change as they evolve through a design project ‘that reveals goals, defines problems, and indicates solutions, with the aim of designing sustainable uses of IT based on a specific problem within the company’ (Bødker et al. 2004, p. 13).
+
+4. political rationale: a commitment to ensuring that the voices of marginalised groups and communities are heard in decision-making processes
+
+5. practice: what is routinely done in some kind of human activity and how the activity is actually accomplished by the actions of those participating in it
+
+5. collective ‘reflection-in-action’ between multiple participants: process+product. cycle: Workshops with designers and users using techniques such as mock-ups, scenarios, prototypes and various types of design games -> These enable ongoing design experiments to visualise, simulate and experiment with selected elements of envisioned technologies, in use, prior to their development and implementation. -> They enable the participants in the design process to propose, represent, interrogate and reflect on different aspects of the developing design continually throughout that process. 
+
+#### chapter 2
+Chapter 2 opens this section with a review of the history and heritage of Participatory Design
+
+#### chapter 3
+Chapter 3 investigates and elaborates on the design concept
+
+#### chapter 4
+Chapter 4 is dedicated to the ethics of Participatory Design. Participatory Design
+
+#### chapter 5
+Chapter 5 re-examines the relationship between ethnography and Participatory Design
 
 #### chapter 6 Methods --  principles and guidelines
 The challenge for the design process, in the context of Participatory Design, is therefore how to develop a highly complex piece of technology and at the same time be flexible for learning processes resulting in changes to both the interface and the functionality of the technology throughout the design process – and even beyond
@@ -158,5 +176,14 @@ design process? If so, how?
 ##### further exploration, application and refinement
 - Analysis can focus on the artefact, the story, the enactment and/or the interplay between artefact, story and enactment
 
+#### Chapter 8
+Chapter 8 recognises community-based Participatory Design as a distinctive field of Participatory Design research.
 
+#### Chapter 9
+Chapter 9 provides one of this section’s three cases of practical large-scale applications of Participatory Design.
 
+#### Chapter 10
+Chapter 10 describes the second Artful Integration Award initiative.
+
+#### Chapter 11
+Chapter 11 presents the ACTION for Health project that was initiated in 2003 and ended in 2008.
