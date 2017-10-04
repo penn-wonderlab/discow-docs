@@ -33,8 +33,16 @@ Participatory Design can be defined as a process of investigating, understanding
 
 5. collective ‘reflection-in-action’ between multiple participants: process+product. cycle: Workshops with designers and users using techniques such as mock-ups, scenarios, prototypes and various types of design games -> These enable ongoing design experiments to visualise, simulate and experiment with selected elements of envisioned technologies, in use, prior to their development and implementation. -> They enable the participants in the design process to propose, represent, interrogate and reflect on different aspects of the developing design continually throughout that process. 
 
-#### chapter 2
-Chapter 2 opens this section with a review of the history and heritage of Participatory Design
+#### chapter 2 Heritage Having a say
+Chapter 2 opens this section with a review of the history and heritage of Participatory Design.
+
+guiding principles:
+1. Equalising power relations – finding ways to give voice to those who may be invisible or weaker in organisational power structures.
+2. Democratic practices – putting into play the practices and role models for equality among those some call ‘stakeholders’.
+3. Situation-based actions – working directly with people in their workplace or homes to understand actions and technologies in actual settings, rather than through formal abstractions.
+4. Mutual learning – encouraging and enhancing the understanding of different actors by finding common ground and ways of working.
+5. Tools and techniques – that actually, in practical situations, help different actors express their needs and visions
+6. Alternative visions about technology – whether it be in the workplace, home, public place or elsewhere – ideas that can generate expressions of equality and democratic practices
 
 #### chapter 3
 Chapter 3 investigates and elaborates on the design concept
