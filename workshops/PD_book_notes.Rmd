@@ -7,6 +7,9 @@ output: pdf_document
 
 ### Routledge International Handbook of Participatory Design
 
+#### chapter 1 -- Intro
+Participatory Design can be defined as a process of investigating, understanding, reflecting upon, establishing, developing, and supporting mutual learning between multiple participants in collective ‘reflection-inaction’. The participants typically undertake the two principal roles of users and designers where the designers strive to learn the realities of the users’ situation while the users strive to articulate their desired aims and learn appropriate technological means to obtain them.
+
 #### chapter 6 Methods --  principles and guidelines
 The challenge for the design process, in the context of Participatory Design, is therefore how to develop a highly complex piece of technology and at the same time be flexible for learning processes resulting in changes to both the interface and the functionality of the technology throughout the design process – and even beyond
     - think about -- how and when users can have a say : the scope and effect of user participation
