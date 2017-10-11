@@ -47,6 +47,78 @@ guiding principles:
 #### chapter 3
 Chapter 3 investigates and elaborates on the design concept
 
+Our aim is to address the question of whether, and in what way, design actually matters for the Participatory Design community
+
+It has to do with participation,
+with how stakeholders – especially users, developers and planners – cooperatively make or
+adjust systems, technologies and artefacts in ways which fit more appropriately to the needs of
+those who are going to use them
+
+We believe that it is important to stress an overarching concern within the ‘Participatory
+Design tradition’, if we can call it that, on the ‘how’ of designing, i.e. a focus on the practice of
+design – the nature of design activities, the need for providing means for people to be able to be
+involved, the need for respect for different voices, the engagement of modes other than the
+technical or verbal, the concern with improvisation and ongoing evaluation throughout the
+design process, etc.
+
+Part 1: Understanding design – core themes
+
+Socio-technical systems:This led to the development of an approach to work
+reorganisation that focused not only on the social subsystem, or the technical subsystem, but
+rather on how to jointly optimise the joint system
+
+The ‘Scandinavian’ approach to systems design: researchers focused more on the importance of local trade union involvement (Bjerknes et al.1987).
+
+‘soft systems’ analysis and design:  It was one of the first more collaborative Participatory Design methodologies
+applied in several Participatory Design projects, encouraging professional designers to examine
+how they could engage ‘users’ in the design process (Andersen et al. 1990). The approach
+acknowledged the existence of a variety of stakeholders involved in any project, and their distinct
+interests, and how this might impact on the design of any system. Thus, the approach provided
+ways to support dialogue between competing interests and their (partial) resolution, in order to
+proceed with design. This approach, as used in Participatory Design, may also be seen as an early
+attempt to work with more narrative design tools – such as scenarios and storyboards, which later
+became more widely used within the Participatory Design and systems design community more
+generally (Chapter 7 gives a rich repertoire of such design tools.).
+
+‘Design’ interventions: inspiration from action research
+
+the approach was: ‘a comparative research on
+the conditions and effects of various forms of social action and research leading to social action’
+(Lewin 1946, p. 35). The key steps in the approach involved ‘a spiral of steps, each of which is
+composed of a circle of planning, action, and fact-finding about the result of the action’
+
+participatory action research. The researcher becomes engaged as one element in a change process, facilitating
+change, working with the parties concerned, planning change and reflecting on the process of
+change. the Participatory
+Design researchers had to recognise that their work must be geared to local needs, and not
+simply to the production of knowledge for their research peers.
+In general there were genuine efforts made
+to reflect upon, and develop, the role of action-oriented research, knowledge production and
+democratic ideals (Sandberg 1981). It is also possible to think about this early action research
+orientation serving as a stimulus to later, more ‘designerly’ and ‘reflective’ design research
+interventions.
+
+Design Research and Participatory Design
+
+Design science is concerned with the study, investigation and accumulation of knowledge
+about the design process and its constituent operations. It aims to collect, organize and
+improve those aspects of thought and information which are available concerning design,
+and to specify and carry out research in those areas of design which are likely to be of value
+to practical designers and design organizations.
+(Gregory 1996b, p. 323)
+
+Design as rational problem-solving versus reflective practice
+
+rational problem-solving model: In this approach, design is conceived as a rational
+search process, where the designer searches a problem space using formal methods in order to
+achieve a solution to the problem.  Simon suggests ways to transform and reduce this messiness into a stable
+design space where systems thinking, standard logic and mathematics can be applied;
+reflective practice paradigm: we pay attention to the ways professionals in their practice master this messiness
+and complexity ‘in the swamp’, acknowledging that a stable state is an illusion. The concepts of
+reflection-in-action and conversations-with-the-material-of-the-situation – as ways of understanding the
+professional designers’ practice – have become standard references in the Participatory Design
+community.
+
 #### chapter 4
 Chapter 4 is dedicated to the ethics of Participatory Design. Participatory Design
 
