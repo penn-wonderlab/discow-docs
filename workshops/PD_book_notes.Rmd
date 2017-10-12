@@ -98,7 +98,7 @@ User-centered design can be characterized as a multi-stage problem-solving proce
 
 ###### Public participation and social innovation
 
-###### summary
+###### Summary
 - this chapter provide in this epilogue a way to ‘open up’ thinking about Participatory Design, a way that goes beyond the traditional design project, that acknowledges heterogeneity and conflicts of interest, as well as new forms of participation and engagement. At the same time it addresses questions of democracy and participation that have been at the core of Participatory Design from the very beginning.
 
 - a desirable shift in the main Participatory Design design thing strategy: from ‘use-before-use’ (Redström 2008), engaging users and ‘prototypes’ in a project and collaboratively exploring potential future use, to ‘design-after-design’, designing for a continuous appropriation and redesign where infrastructuring work becomes the main activity
@@ -106,8 +106,48 @@ User-centered design can be characterized as a multi-stage problem-solving proce
 - to design where a political community, a public characterised by heterogeneity and difference with no shared object of design, is in need of a platform or infrastructure, an ‘agonistic’ public space (Mouffe 2000), not necessarily to solve conflict, but to constructively deal with disagreements – public controversial matters where heterogeneous design things can unfold, and actors engage in alignments of their conflicting objects of design.
 
 
-#### chapter 4
-Chapter 4 is dedicated to the ethics of Participatory Design. Participatory Design
+#### chapter 4 Ethics Engagement, representation and politics-in-action
+
+##### Basics
+1. concept
+Ethics, or moral philosophy, has to do with questions relating to how we should live to live a good life (what is a good life?), what kind of society we should have (how to distribute goods and burdens?) and how we should treat others.
+
+Ethics is the enquiry into what is valuable, or, into what is really important, or I could have said Ethics is the enquiry into the meaning of life, or into what makes life worth living, or into the right way of living. 
+
+when it moves from exploring abstract questions about how to live a good life to influencing how people actually do things – then people need to take a stand on various issues that affect them and shape the society in which they live
+
+2. Ethical theories
+Normative ethical theories seek answers regarding the standards of moral right and wrong and the grounds for making decisions about what would be the right thing to do; in other words, how we should meet our obligations in a given situation.
+
+Normative ethical theories and the principles on which they build may help address some of the general ethical issues at stake in the making of technologies. They can guide thinking about questions related to autonomy, responsibility, the right to privacy, and so forth. Taking an ethical stance in Participatory Design is about an ethical practice that allows the identification of these issues as they arise in design and use
+
+3. Practical, situated ethics
+- one’s ethical self is defined by the ability to recognise the humanity of the other
+- Narrative ethics proceeds through constructing and telling one’s own story and comprehending the story of others. This may include decisions such as: What is my story? What is important to relate? What is the best way to express what I consider to be the ethically most relevant material?
+- Participants are encouraged to bring forward/argue through stories, and organisers of a deliberation process are required to provide suitable case descriptions. It also resonates well with Participatory Design, which also seeks to build rich representations of practice that are used to collaboratively examine a current situation and envision future, technology-supported practices.
+
+4. Ethics and technology
+The crucial point for technology design is that as present possibilities become what actually ‘is’, they become increasingly embedded not just in the technology itself and the social and organisational protocols surrounding its use, but in the specific embodied histories, capacities and social identities of particular people
+
+##### Ethical issues of working with users
+
+- Who do we engage with in a Participatory Design project?
+people have the right to influence their own workplace, including the use of computer technology. While identifying the ‘legitimate’ participants in a small project may be straightforward, it can become a problem in complex settings with many participants and multiple dependencies.
+- How do we engage with participants?
+A core principle of Participatory Design has always been to acknowledge participants as experts in their own work situation. This presumes respect for their expertise as well as mutual trust
+- How do we represent participants and their work?
+Another principle of Participatory Design is not to tell users what their work is or what it means to them. Producing representations of work can be seen in analogy to the creation of ‘ethnographic accounts’ (and in fact ethnography has an important role in Participatory Design projects).
+- What can we offer participants?
+In the best of all cases a Participatory Design project results in a well-functioning system or application, amenable to users’ reconfiguring and redesigning to fit evolving uses. But what happens when this is not possible? We are often ‘creating future forms of technology that will not become completely viable within the scope of the project.
+
+
+##### conclusion
+questions to think about related to ethics:
+- Do users actually have decision power? If so what kind?
+- Does a design method, tool or process recognise and encourage participants’ abilities to learn?
+- Does a design method, tool or process guide designers and researchers to analyse and develop their interests and attitude towards participants?
+- Does a design method, tool or process include participants’ evaluations not just of what is being designed but of the design process itself, including the opportunities for and process of participation?
+- Does a design method, tool or process deal with a justified loss or change of design focus, for example when participants identify problems that require non-information technology solutions while the process was initiated to design information technology)?
 
 #### chapter 5
 Chapter 5 re-examines the relationship between ethnography and Participatory Design
