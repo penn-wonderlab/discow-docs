@@ -173,3 +173,7 @@ Bodong programmed the tool in Knowledge Forum 4 and it's now implemented in KF6 
 ### Swarm Intelligence
 
 - http://unu.ai/
+
+### Idea Grabber by Mindomo
+
+- https://www.mindomo.com/help/idea-grabber.htm
