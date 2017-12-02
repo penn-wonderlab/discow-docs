@@ -1,6 +1,8 @@
 Discow Design: Idea Magnets
 ===========================
 
+(Version 1)
+
 On the H side of Discow, we are not only looking at how *annotations* can support student learning. We are fundamentally concerned with *how knowledge workers interact with information or knowledge*. This is a living document of the design of Discow on this front. Below, we capture key design ideas. At the bottom of this page, we are surveying available systems for (creative) knowledge work, as there is a long list of knowledge management software in this space.
 
 ## Conceptual Inspirations
